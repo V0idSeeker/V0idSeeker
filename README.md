@@ -47,7 +47,7 @@ Teaching Assistant at **Université M'Hamed Bougara** (Boumerdès).
 | Project | What it does | Stack |
 |---|---|---|
 | **[DocMCP](https://github.com/V0idSeeker/RAG-MCP)** | Local PDF search for AI coding tools over MCP, with Recursive Language Model reasoning. Nothing leaves the machine. | Python · Node.js · ChromaDB · Ollama · Docker |
-| **[FastAPI rate limiter](https://github.com/V0idSeeker/Fastapi-rate-limitter-middleware)** | Rate-limiting middleware for FastAPI with in-memory and Redis backends and per-route rules. | Python · FastAPI · Redis |
+| **[VoidSketches](https://voidsketches.vercel.app)** | Free computer-science lessons explained through real-life analogies: one concept per animated, narrated lesson, in English and French. No account, no paywall. | React · Vite · local TTS · Vercel |
 | **[Portfolio](https://github.com/V0idSeeker/rezki-boureghdad)** | My portfolio and CV: one page that switches between an engineer and an educator view. | HTML · CSS · Motion |
 
 > Most of my production work is client software at Solrus. It lives in private repos and is covered by NDAs.
