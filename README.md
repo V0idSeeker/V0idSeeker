@@ -19,7 +19,7 @@
 
 ### 🟣 `engineer`
 
-Back-end and data architect at **[Solrus](https://www.solrus.pro)**, a software studio in Algiers.
+Back-end and data engineer at **[Solrus](https://www.solrus.pro)**, a software studio in Algiers.
 I design the data models, APIs and integrations that let a product grow without a rewrite.
 
 - Event-driven Python services: FastAPI, SQLAlchemy 2, Kafka, Redis
