@@ -47,6 +47,7 @@ Teaching Assistant at **Université M'Hamed Bougara** (Boumerdès).
 | Project | What it does | Stack |
 |---|---|---|
 | **[DocMCP](https://github.com/V0idSeeker/RAG-MCP)** | Local PDF search for AI coding tools over MCP, with Recursive Language Model reasoning. Nothing leaves the machine. | Python · Node.js · ChromaDB · Ollama · Docker |
+| **[ClassCues](https://classcues.vercel.app)** | A free browser game where you learn a subject by teaching it to ten AI students, who then take a quiz on what you taught. Bring your own AI; no account, no server. | React · TypeScript · Vite · LLM APIs · PWA |
 | **[VoidSketches](https://voidsketches.vercel.app)** | Free computer-science lessons explained through real-life analogies: one concept per animated, narrated lesson, in English and French. No account, no paywall. | React · Vite · local TTS · Vercel |
 | **[Portfolio](https://github.com/V0idSeeker/rezki-boureghdad)** | My portfolio and CV: one page that switches between an engineer and an educator view. | HTML · CSS · Motion |
 
